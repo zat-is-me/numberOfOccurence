@@ -1,5 +1,7 @@
 package com.numberOfOccurence;
-
+//Author Tatek Ahmed
+//This project will count single 
+//digit occurence in the give number
 
 public class  NumberOfOccurence{
 	
